@@ -1,0 +1,110 @@
+[09:42:24] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[09:42:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:42:38] [ServerMain/INFO]: Loaded 1174 recipes
+[09:42:39] [ServerMain/INFO]: Loaded 1271 advancements
+[09:42:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[09:42:40] [Server thread/INFO]: Loading properties
+[09:42:40] [Server thread/INFO]: This server is running Paper version git-Paper-426 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ccefdc)
+[09:42:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:42:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:42:43] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[09:42:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[09:42:44] [Server thread/INFO]: Default game type: SURVIVAL
+[09:42:44] [Server thread/INFO]: Generating keypair
+[09:42:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:42:44] [Server thread/INFO]: Using default channel type
+[09:42:44] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[09:42:44] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[09:42:44] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[09:42:46] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[09:42:46] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[09:42:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:42:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:42:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:42:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:42:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:42:46] [Server thread/INFO]: Preparing level "world"
+[09:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:42:47] [Server thread/INFO]: Time elapsed: 320 ms
+[09:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:42:47] [Server thread/INFO]: Time elapsed: 63 ms
+[09:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:42:47] [Server thread/INFO]: Time elapsed: 43 ms
+[09:42:47] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[09:42:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[09:42:48] [Server thread/INFO]: [Geyser-Spigot] 
+[09:42:48] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-8b170d6)
+[09:42:48] [Server thread/INFO]: [Geyser-Spigot] 
+[09:42:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[09:42:58] [nioEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[09:42:58] [Server thread/INFO]: [Geyser-Spigot] Done (10.879s)! Run /geyser help for help!
+[09:42:59] [Server thread/INFO]: Running delayed init tasks
+[09:42:59] [Server thread/INFO]: Done (18.619s)! For help, type "help"
+[09:42:59] [Server thread/INFO]: Timings Reset
+[09:43:31] [ForkJoinPool.commonPool-worker-1/WARN]: [Geyser-Spigot] Failed to load locale asset cache: Unrecognized token 'Read': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (String)"Read timed out"; line: 1, column: 5]
+[09:47:57] [nioEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /192.168.7.127:42758 tried to connect!
+[09:47:59] [nioEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Tanphat77923157
+[09:47:59] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] Tanphat77923157 (logged in as: Tanphat77923157) has connected to the Java server
+[09:47:59] [User Authenticator #0/INFO]: UUID of player Tanphat77923157 is 1c718976-8102-356b-b685-890f2720d609
+[09:48:01] [Server thread/INFO]: Tanphat77923157 joined the game
+[09:48:01] [Server thread/INFO]: Tanphat77923157[/192.168.7.127:0] logged in with entity id 32 at ([world]17.69999, 63.0, -53.30001)
+[09:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[09:48:26] [Server thread/INFO]: Tanphat77923157 issued server command: /time set day
+[09:48:26] [Server thread/INFO]: [Tanphat77923157: Set the time to 1000]
+[09:48:34] [Server thread/INFO]: Tanphat77923157 issued server command: /kill
+[09:48:34] [Server thread/INFO]: Tanphat77923157 was killed
+[09:48:34] [Server thread/INFO]: [Tanphat77923157: Killed Tanphat77923157]
+[09:49:41] [Server thread/INFO]: An entity is required to run this command here
+[09:49:48] [Server thread/INFO]: Tanphat77923157 was killed
+[09:49:48] [Server thread/INFO]: Killed 284 entities
+[09:50:07] [Server thread/INFO]: Summoned new Primed TNT
+[09:50:30] [Server thread/INFO]: Summoned new Warden
+[09:50:40] [Server thread/INFO]: Tanphat77923157 has made the advancement [Sneak 100]
+[09:50:44] [Server thread/INFO]: An entity is required to run this command here
+[09:50:46] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:50:54] [Server thread/INFO]: Tanphat77923157 was killed
+[09:50:54] [Server thread/INFO]: Killed Tanphat77923157
+[09:51:19] [Server thread/INFO]: Tanphat77923157 issued server command: /gamemode c
+[09:51:41] [Server thread/INFO]: Tanphat77923157 issued server command: /gamemode
+[09:52:48] [Server thread/INFO]: Tanphat77923157 issued server command: /gamemode c
+[09:53:25] [Server thread/INFO]: Tanphat77923157 was doomed to fall by Warden
+[09:53:31] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:53:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:53:39] [Server thread/INFO]: Stopping the server
+[09:53:39] [Server thread/INFO]: Stopping server
+[09:53:39] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[09:53:39] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[09:53:39] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[09:53:39] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] Tanphat77923157 has disconnected from the Java server because of Geyser Proxy shutting down.
+[09:53:39] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[09:53:40] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[09:53:40] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[09:53:40] [Server thread/INFO]: Saving players
+[09:53:40] [Server thread/INFO]: Tanphat77923157 lost connection: Server closed
+[09:53:40] [Server thread/INFO]: Tanphat77923157 left the game
+[09:53:40] [Server thread/INFO]: Saving worlds
+[09:53:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:53:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:53:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:53:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:53:41] [Server thread/INFO]: [ChunkHolderManager] Saved 479 block chunks, 610 entity chunks, 0 poi chunks in world 'world' in 1.47s
+[09:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:53:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:53:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:53:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:53:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[09:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:53:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:53:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:53:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:53:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[09:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:53:42] [Server thread/INFO]: Flushing Chunk IO
+[09:53:42] [Server thread/INFO]: Closing Thread Pool
+[09:53:42] [Server thread/INFO]: Closing Server

@@ -1,0 +1,1 @@
+java -Xmx3072M -Xms2048M -jar paper.jar
